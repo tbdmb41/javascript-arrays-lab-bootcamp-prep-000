@@ -29,5 +29,3 @@ function removeFirstKitten(){
   var removeFirstK = kittens;
   return removeFirstK.slice(1)
 }
-
-
